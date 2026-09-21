@@ -344,8 +344,8 @@ This project was used to practice:
 - Interference checking
 - Basic motion testing
 - Engineering drawings
-- Basic kinematic measurements
-- Design iteration
+- Basic measurements
+- Design process
 
 ---
 

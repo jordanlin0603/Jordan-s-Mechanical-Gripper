@@ -4,11 +4,11 @@ This document summarizes the design process and final dimensions of the custom c
 
 All dimensions are in millimetres.
 
-For the SolidWorks part files, see the **[`parts`](parts) folder**.
+For the SolidWorks part files, see the **"Parts" folder**.
 
-For the engineering drawings, see the **[`drawings`](drawings) folder**.
+For the engineering drawings, see the **"Drawings" folder**.
 
-For views of the completed assembly, see the **[`solidworks angles`](solidworks%20angles) folder**.
+For views of the completed assembly, see the **"SolidWorks Angles" folder**.
 
 ---
 

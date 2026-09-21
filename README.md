@@ -59,7 +59,7 @@ Engineering drawings were created for the major custom components and the comple
 
 To view the drawings, open the:
 
-**[`drawings`](drawings) folder**
+**"Drawings" folder**
 
 This folder contains drawings for:
 
@@ -74,7 +74,7 @@ This folder contains drawings for:
 
 Individual SolidWorks parts and component files are located in the:
 
-**[`parts`](parts) folder**
+**"Parts" folder**
 
 The custom parts include:
 
@@ -90,7 +90,7 @@ The custom parts include:
 
 Different views of the completed SolidWorks assembly are located in:
 
-**[`solidworks angles`](solidworks%20angles) folder**
+**"SolidWorks" folder**
 
 These include front, back, side, top, bottom, and angled views of the finished gripper.
 
@@ -114,7 +114,7 @@ The center handle moves the slider, which transfers motion through the two conne
 
 A more detailed breakdown of the design process and individual component dimensions is available in:
 
-**[DESIGN_PROCESS.md](DESIGN_PROCESS.md)**
+**"DESIGN PROCESS.MD"**
 
 ## Software
 
